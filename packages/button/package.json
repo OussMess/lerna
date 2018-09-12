@@ -1,0 +1,16 @@
+{
+  "name": "@pca/button",
+  "version": "0.1.0",
+  "description": "Button",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "jest": {
+    "setupFiles": [
+      "../../test/setup.js"
+    ]
+  }
+}
